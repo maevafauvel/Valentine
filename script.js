@@ -1,7 +1,6 @@
 // VARIABLES
 
 const yesButton = document.querySelector('.yesButton');
-const h1 = document.querySelector('h1');
 const p = document.querySelector('p');
 const img = document.querySelector('img');
 const noButton = document.querySelector('.noButton');
@@ -9,8 +8,7 @@ const noButton = document.querySelector('.noButton');
 // YES BUTTON
 
 yesButton.addEventListener('click', function () {
-    h1.innerHTML = 'Yeeeeeeeees';
-    p.style.opacity = 0;
+    p.innerHTML = 'Yeeeeeeeees';
     img.src = "./images/coupleCat.gif"
     yesButton.style.opacity = 0;
     noButton.style.opacity = 0;

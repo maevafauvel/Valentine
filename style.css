@@ -22,16 +22,9 @@ body {
     margin: 2rem 0;
 }
 
-.title h1 {
-    color: #FF8892;
-    font-size: 3rem;
-    font-family: 'Miniver', sans-serif;
-    text-align: center;
-}
-
 .title p {
     color: #FF8892;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     text-align: center;
     font-family: 'Silkscreen', sans-serif;
 }
