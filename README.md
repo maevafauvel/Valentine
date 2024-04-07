@@ -1,8 +1,3 @@
-# My Valentine
-
-Want to ask them out but afraid of rejection?
-My Valentine is a cute little project where you can ask someone to be your Valentine and... they can't say no! :)
-
 # Preview
 
 You can see a preview of the result by watching the following video:
